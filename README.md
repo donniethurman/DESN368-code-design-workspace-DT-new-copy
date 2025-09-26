@@ -44,8 +44,8 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 - **Workspace (Forked Repo):** https://github.com/donniethurman/DESN368-code-design-workspaceDT ⏳
 - **Figma:** athurman2 ⏳
 - **CodePen:** https://codepen.io/donniethurman ⏳
-- **LiveCode:** [Add your LiveCode profile here] ⏳
-- **GitHub Student Pack:** [Confirm approval status here] ⏳  
+- **LiveCode:** https://livecode.com/account/update⏳
+- **GitHub Student Pack:** Approved ⏳  
 
 ### **How to Update Your Toolkit:**
 1. **Click the pencil icon** (✏️) at the top right of this README  
