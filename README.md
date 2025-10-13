@@ -1,6 +1,7 @@
 # 🎉 Welcome to DESN368 CODE + DESIGN ONE!
-Donnie Thurman 09/24/25
-My Netlify Link: https://desn368-portfolio-dt.netlify.app 
+Donnie Thurman 09/24/25 
+**Live Site:** https://desn368-portfolio-dt.netlify.app 
+This repository contains my weekly projects for DESN368 as I learn HTML, CSS, and web development.
 
 **Welcome to DESN368 Web Design!**  
 You're viewing the instructor's course repository(repo). This serves as your reference and source for all course materials.  
