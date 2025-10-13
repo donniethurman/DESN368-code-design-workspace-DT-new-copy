@@ -2,6 +2,7 @@
 Donnie Thurman 09/24/25 
 
 **Live Site:** https://desn368-portfolio-dt.netlify.app 
+
 This repository contains my weekly projects for DESN368 as I learn HTML, CSS, and web development.
 
 **Welcome to DESN368 Web Design!**  
