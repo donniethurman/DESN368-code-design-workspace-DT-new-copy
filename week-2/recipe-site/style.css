@@ -5,6 +5,7 @@ main {
   border: 5px solid #A0522D;
   border-radius: 120px;
   background-color: #FFFACD; 
+  background: linear-gradient(to bottom, #FFFACD, #f0f0f0);
 }
 img {
   width: 500px;
