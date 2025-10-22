@@ -2,15 +2,16 @@
 
 ## About This Repository
 
-This repository documents my learning journey in Web Design 1 (DESN368) during [Quarter/Year]. Here you'll find my projects, experiments, and exercises as I learn HTML, CSS, and the fundamentals of web design.
+This repository documents my learning journey in Web Design 1 (DESN368) during 2025/2026. Here you'll find my projects, experiments, and exercises as I learn HTML, CSS, and the fundamentals of web design.
 
 ## Course Overview
 
 - **Instructor:** Travis Masingale
-- **Institution:** [Your School]
-- **Term:** [Term/Year]
+- **Institution:** Eastern Washington University
+- **Term:** 2025/2026
 
 ---
+Live Site :  https://legendary-jelly-1d1c12.netlify.app 
 
 ## Week 1 - Introduction to the Internet and the Web
 
@@ -19,44 +20,54 @@ This repository documents my learning journey in Web Design 1 (DESN368) during [
 - How browsers work
 - Understanding IP addresses, DNS, and URLs
 - History of the web
+- Figma pt. 1 & 2
 
 **Key Takeaways:**
-[Write 1-2 sentences about what you learned or found most interesting]
+In this week, the thing I found the most interesting was IP addresses. It is crazy that we each have our own personal address on the Internet. 
 
 **Files:**
-- [Link to specific files or note what's in the week-1 folder]
+- In the week 1 folder you will find three sites I created using just HTML, favorite-band.html, lost-pet.html, and newspaper.html. 
 
 ---
 
-## Week 2 - [Topic Title]
+## Week 2 - Document Architecture 
 
 **Topics Covered:**
-- [List main topics]
+- Web 1.0, 2.0, and 3.0
+- HTML structure and semantics
 
 **Key Takeaways:**
-[Write 1-2 sentences about what you learned or found most interesting]
+Within this week I found it interesting that HTML structure is similar to a lot of tools I've used my entire life. To put it plainly, HTML structure is basically default document structure. 
 
 **Projects/Exercises:**
-- [Describe what you built or practiced]
+- Debriefed web design evolution
+- CodeDex.io lesson on structure
+- Visual notes rienforcing design evolution and HTML semantics.
+- Figma pt. 3
 
 **Files:**
-- [Link to specific files or note what's in the week-2 folder]
+- In the week 2 folder you will find 4 sites I created, craigslist-site, lorem-ipsum-site, recipe-site, and wiki-article-site.
 
 ---
 
-## Week 3 - [Topic Title]
+## Week 3 - The Cascade
 
 **Topics Covered:**
-- [List main topics]
+- The Cascade
+- Semantics Challange 
 
 **Key Takeaways:**
-[Write 1-2 sentences about what you learned or found most interesting]
+This week I learnd the definiton of CSS (cascading style sheet) and how that function operates a broswer. I also learned CSS anatomy. 
 
 **Projects/Exercises:**
-- [Describe what you built or practiced]
+- Semantics Challenge
+- Code Academy CSS intro.
+- Designed a tribute site in Figma.
+- Styled and deployed a recipe.
+- Figma pt. 4
 
 **Files:**
-- [Link to specific files or note what's in the week-3 folder]
+- In the week 3 folder you will find the CSS exercises for week 3. 
 
 ---
 
@@ -68,7 +79,7 @@ This repository documents my learning journey in Web Design 1 (DESN368) during [
 - Markdown formatting
 
 **Key Takeaways:**
-[Write 1-2 sentences about what you learned]
+This week I learned the importance of semantic CSS and CSS text styling. 
 
 **Tasks Completed:**
 - ✓ Organized repo with week folders
@@ -79,16 +90,17 @@ This repository documents my learning journey in Web Design 1 (DESN368) during [
 
 ## Resources
 
-- [Link to course materials]
-- [Link to helpful websites or tutorials you found]
-- [Any other resources you want to remember]
+- https://github.com/donniethurman/DESN368-code-design-workspace-DT-new-copy/blob/main/README-old.md
+- https://github.com/donniethurman
+- https://codepen.io/donniethurman
 
 ## Tools Used
 
 - VS Code
 - Firefox Developer Edition
 - GitHub
-- [Other tools]
+- Codepen
+- Figma
 
 ---
 
