@@ -10,7 +10,7 @@ header {
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 130px;
 }
 body {
   text-align: center;
@@ -55,25 +55,40 @@ body {
   background-image: url("images/lace.JPG");
 }
 
+/* Make figure span the full available width so figcaptions can fill the page */
+figure {
+  width: 100%;
+  display: block;
+  margin: 0;
+}
+
 .black-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: auto;
-  height: 80px; 
+  height: 196px; 
+  line-height: 80px;
   background-color: black;
   border: 0px solid black;
   padding: 0px;
-  margin: -10px; 
+  margin: 0px; 
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
   border-radius: 0px;
 }
 .black-box2 {
-  width: auto;
-  height: 20px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%; /* fill the figure/container */
   background-color: black;
   border: 0px solid black;
-  padding: 35px;
-  margin: -10px; 
+  padding: 12px 20px;
+  margin: 0px;
+  box-sizing: border-box;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
   border-radius: 0px;
+  color: white;
 }
 
 #small-black-box {
