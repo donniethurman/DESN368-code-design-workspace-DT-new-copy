@@ -11,7 +11,7 @@ This repository documents my learning journey in Web Design 1 (DESN368) during 2
 - **Term:** 2025/2026
 
 ---
-Live Site :  https://legendary-jelly-1d1c12.netlify.app 
+Live Site :  https://desn368-dt.netlify.app 
 
 ## Week 1 - Introduction to the Internet and the Web
 
