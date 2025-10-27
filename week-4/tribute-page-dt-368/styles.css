@@ -1,3 +1,10 @@
+/* Reset the box-model /
+* {   
+box-sizing: border-box; 
+margin: 0;
+padding: 0;
+}
+
 header, h1, h2 {
   font-family: "GFS Didot", serif;
   font-weight: 400;
