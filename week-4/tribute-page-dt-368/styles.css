@@ -68,7 +68,7 @@ dd {
 
 .dior-logo {
   position: sticky;
-  text-align:right;
+  text-align: right;
   top: 16px;
   right: 16px;
   z-index: 1000;
@@ -78,7 +78,7 @@ dd {
 
 .dior-logo-left {
   position: sticky;
-  text-align:left;
+  text-align: left;
   top: 16px;
   left: 16px;
   z-index: 1000;
