@@ -68,11 +68,11 @@ dd {
 
 .dior-logo {
   position: fixed;
-  z-index: 100;
+  top: 16px;
+  right: 16px;
+  z-index: 1000;
   width: 360px;
   height: auto;
-  float: right;
-  margin-right: -10px;
 }
 
 .dior-logo-left {
