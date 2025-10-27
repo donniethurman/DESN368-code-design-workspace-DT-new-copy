@@ -66,7 +66,7 @@ dd {
   margin-bottom: 20px;
 }
 
-.dior-logo {
+#dior-logo {
   position: sticky;
   text-align: right;
   top: 16px;
@@ -76,7 +76,7 @@ dd {
   height: auto;
 }
 
-.dior-logo-left {
+#dior-logo-left {
   position: sticky;
   text-align: left;
   top: 16px;
