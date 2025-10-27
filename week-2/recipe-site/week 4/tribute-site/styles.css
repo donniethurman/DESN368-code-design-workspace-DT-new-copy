@@ -1,4 +1,16 @@
-header, h1, h2, h3 {
+header, h1, h2 {
+  font-family: "GFS Didot", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.gloock-regular {
+  font-family: "Gloock", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.gfs-didot-regular {
   font-family: "GFS Didot", serif;
   font-weight: 400;
   font-style: normal;
@@ -6,7 +18,7 @@ header, h1, h2, h3 {
 
 header {
   text-align: center;
-  color:white;
+  color: #ffffff;
 }
 
 h1 {
@@ -16,12 +28,28 @@ body {
   text-align: center;
 }
 
+dt {
+font-family: "Gloock", serif;
+font-weight: 700;
+font-style: normal;
+  font-size: 16px;
+  color: #000000;
+}
+
+dd {
+  font-family: "GFS Didot", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  color: #000000;
+}
 #img1 {
   width: 365px;
   height: 584px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 20px;
 }
 
 .dior-logo {
@@ -39,27 +67,23 @@ body {
 }
 
 figcaption {
-  color: white;
+  color: #ffffff;
 }
 
 h2 {
   font-size: 24px;
-  color: white;
+  color: #ffffff;
 }
 
 h3 {
   text-align: center;
+  font-family: Gloock, serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 body {
   background-image: url("images/lace.JPG");
-}
-
-/* Make figure span the full available width so figcaptions can fill the page */
-figure {
-  width: 100%;
-  display: block;
-  margin: 0;
 }
 
 .black-box {
@@ -69,13 +93,14 @@ figure {
   width: auto;
   height: 196px; 
   line-height: 80px;
-  background-color: black;
-  border: 0px solid black;
+  background-color: #000000;
+  border: 0px solid #000000;
   padding: 0px;
   margin: 0px; 
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
   border-radius: 0px;
 }
+
 .black-box2 {
   display: flex;
   align-items: center;
@@ -83,21 +108,21 @@ figure {
   width: 100%; 
   height: 80px; 
   line-height: 80px;
-  background-color: black;
-  border: 0px solid black;
-  padding: 12px 20px;
+  background-color: #000000;
+  border: 0px solid #000000;
+  padding: 12px;
   margin-bottom: 36px;
   box-sizing: border-box;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
   border-radius: 0px;
-  color: white;
+  color: #ffffff;
 }
 
 #small-black-box {
-  width: 446px;
+  width: 597px;
   height: 80px; 
-  background-color: black;
-  border: 2px solid black;
+  background-color: #000000;
+  border: 2px solid #000000;
   padding: 10px;
   margin: 18px auto; 
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
@@ -107,9 +132,9 @@ figure {
 .white-box {
   width: 597px;
   height: auto; 
-  background-color: white;
-  border: 2px solid white;
-  padding: 10px;
+  background-color: #ffffff;
+  border: 2px solid #ffffff;
+  padding: 20px;
   margin: 10px auto; 
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
   border-radius: 0px;
@@ -120,25 +145,28 @@ figure {
 .white-box-quote {
   width: 597px;
   height: auto; 
-  background-color: white;
-  border: 2px solid white;
+  background-color: #ffffff;
+  border: 2px solid #ffffff;
   padding: 10px;
-  margin: 84px auto;
+  margin: 118px auto;
   margin-bottom: 19px;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
   border-radius: 0px;
   opacity: .95;
   text-align: center;
-  line-height: 1.6;
+  line-height: 2.5;
+  font-family: Gloock, serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 #last-white-box {
   width:597px;
   height: auto;
-  background-color: white;
-  border:2px solid white;
+  background-color: #ffffff;
+  border:0px solid #ffffff;
   padding: 10px;
-  margin: 10px auto;
+  margin: 19px auto;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
   border-radius: 0px;
   opacity: .95;
