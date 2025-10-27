@@ -1,8 +1,32 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 130px;
+}
+
+h2 {
+  font-size: 24px;
+  color: #ffffff;
+}
+
+h3 {
+  text-align: center;
+  font-family: Gloock, serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
 header, h1, h2 {
   font-family: "GFS Didot", serif;
   font-weight: 400;
   font-style: normal;
+}
+
+header {
+  text-align: center;
+  color: #ffffff;
 }
 
 .gloock-regular {
@@ -15,18 +39,6 @@ header, h1, h2 {
   font-family: "GFS Didot", serif;
   font-weight: 400;
   font-style: normal;
-}
-
-header {
-  text-align: center;
-  color: #ffffff;
-}
-
-h1 {
-  font-size: 130px;
-}
-body {
-  text-align: center;
 }
 
 dt {
@@ -68,24 +80,22 @@ dd {
   margin-left: -10px;
 }
 
+figure{
+  margin: 0;
+  padding: 20px;
+  background-color: #ffffff;
+  background-size: contain;
+}
+
 figcaption {
   color: #ffffff;
 }
 
-h2 {
-  font-size: 24px;
-  color: #ffffff;
-}
-
-h3 {
-  text-align: center;
-  font-family: Gloock, serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
 body {
   background-image: url("images/lace.JPG");
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center;
 }
 
 .black-box {
@@ -105,13 +115,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 100%; 
+  width: auto; 
   height: 80px; 
   line-height: 80px;
   background-color: #000000;
   border: 0px solid #000000;
-  padding: 12px;
-  margin-bottom: 36px;
+  padding: 0px;
+  margin-bottom: 0px;
   color: #ffffff;
 }
 
@@ -121,7 +131,7 @@ body {
   background-color: #000000;
   border: 2px solid #000000;
   padding: 10px;
-  margin: 18px auto; 
+  margin: 10px auto; 
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -130,7 +140,7 @@ body {
   height: auto; 
   background-color: #ffffff;
   border: 2px solid #ffffff;
-  padding: 20px;
+  padding: 10px;
   margin: 10px auto; 
   opacity: .95;
   text-align: left;
@@ -156,7 +166,7 @@ body {
   width:597px;
   height: auto;
   background-color: #ffffff;
-  border:0px solid #ffffff;
+  border: 2px solid #ffffff;
   padding: 10px;
   margin: 19px auto;
   opacity: .95;
