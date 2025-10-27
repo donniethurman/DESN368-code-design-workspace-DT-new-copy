@@ -88,6 +88,13 @@ This week I learned the importance of semantic CSS and CSS text styling.
 
 ---
 
+## Projects
+**Project 1: Tribute Page**
+- Subject: Christian Dior
+- https://www.figma.com/design/tp0kWJ8YPw0gqcv9FynbLT/tribute-christiandior-td-f25?node-id=0-1&m=dev&t=C5RnBmKCKEOKHhld-1
+- https://desn368-dt.netlify.app
+
+
 ## Resources
 
 - https://github.com/donniethurman/DESN368-code-design-workspace-DT-new-copy/blob/main/README-old.md
