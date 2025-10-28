@@ -68,10 +68,10 @@ dd {
 
 #dior-logo {
   position: fixed;
-  top: 180px;
-  right: 16px;
+  top: 125px;
+  right: 10px;
   z-index: 1000;
-  max-width: 340px; 
+  max-width: 330px; 
   height: auto;
   display: block;
   padding: 0;
@@ -80,10 +80,10 @@ dd {
 
 #dior-logo-left {
   position: fixed;
-  top: 180px;
-  left: 16px;
+  top: 125px;
+  left: 10px;
   z-index: 1000;
-  max-width: 340px;
+  max-width: 330px;
   height: auto;
   display: block;
   margin: 0;
