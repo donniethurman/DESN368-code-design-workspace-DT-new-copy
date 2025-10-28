@@ -80,7 +80,6 @@ dd {
 }
 
 #dior-logo-left {
-  /* Pin the left logo to the top-left of the viewport and ensure left alignment */
   position: fixed;
   top: 16px;
   left: 16px;
@@ -90,10 +89,9 @@ dd {
   display: block;
   margin: 0;
   padding: 0;
-  transform: none !important; /* override any centering transforms */
+  transform: none !important; 
 }
 
-/* Make sure the page content isn't hidden under the fixed logos */
 body {
   padding-top: 84px; /* adjust if header/logo heights change */
 }
