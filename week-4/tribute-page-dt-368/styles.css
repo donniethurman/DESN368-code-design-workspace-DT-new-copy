@@ -67,31 +67,35 @@ dd {
 }
 
 #dior-logo {
-  position: sticky;
-  text-align: right;
+  /* Pin the right logo to the top-right of the viewport */
+  position: fixed;
   top: 16px;
   right: 16px;
   z-index: 1000;
-  width: 360px;
+  max-width: 160px; /* shrink to a reasonable size */
   height: auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0px;
+  display: block;
+  padding: 0;
+  margin: 0;
 }
 
 #dior-logo-left {
-  position: sticky;
-  text-align: left;
-  top: 0px;
-  left: 1100px;
+  /* Pin the left logo to the top-left of the viewport and ensure left alignment */
+  position: fixed;
+  top: 16px;
+  left: 16px;
   z-index: 1000;
-  width: 360px;
+  max-width: 160px;
   height: auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0px;
+  display: block;
+  margin: 0;
+  padding: 0;
+  transform: none !important; /* override any centering transforms */
+}
+
+/* Make sure the page content isn't hidden under the fixed logos */
+body {
+  padding-top: 84px; /* adjust if header/logo heights change */
 }
 
 figure{
