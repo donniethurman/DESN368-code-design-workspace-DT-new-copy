@@ -83,7 +83,7 @@ dd {
 #dior-logo-left {
   position: sticky;
   text-align: left;
-  top: 16px;
+  top: 0px;
   left: 1100px;
   z-index: 1000;
   width: 360px;
