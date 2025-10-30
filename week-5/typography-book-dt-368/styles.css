@@ -1,0 +1,61 @@
+.metal-mania-regular {
+  font-family: "Metal Mania", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.eb-garamond-<uniquifier> {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h1 {
+  font-family: Metal Mania;
+  font-size: 45px;
+  margin: 20px;
+  padding: 1px;
+  margin-bottom: 1px;
+}
+
+h2 {
+  font-family: EB Garamond;
+  line-height: 1;
+  font-size: 18px;
+  margin: 20px;
+  margin-top: 1px;
+  margin-bottom: 35px;
+}
+
+h3 {
+  font-family: EB Garamond;
+  font-size: 18px;
+  margin: 5px;
+  margin-bottom: 1px;
+}
+
+p{
+  font-family: EB Garamond;
+  margin-top: 5px;
+}
+
+body {
+  text-align: center;
+}
+
+.paragraphs {
+  width: 750px;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 1.6;
+  margin-bottom: 35px;
+}
+
+.explanation {
+  width: 750px;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 1;
+}
