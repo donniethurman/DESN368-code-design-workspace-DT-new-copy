@@ -45,25 +45,30 @@ nav a {
 
 .photos {
   list-style: none;
-  margin: 0;
+  margin: 5px;
   padding: 0;
   display: block;
   flex-wrap: wrap;
-  gap: 5px;
+  gap: 4px;
   column-count: 2;
   width: 100%;
 }
 
+.photos img {
+  display: inline-block;
+  margin-bottom: 1px;
+}
+
 .feature {
-  width: 200px;
+  width: 400px;
   float: left;
   margin: 0 15px 10px 0;
 }
 
 main {
-  display: flex;              /* Enables flexbox */
-  justify-content: space-between;  /* Controls horizontal spacing */
-  align-items: start;        /* Aligns vertically (centered) */
+  display: flex;              
+  justify-content: space-between;  
+  align-items: start;        
   gap: 20px; 
 }
 
@@ -74,10 +79,9 @@ article {
   align-items: flex-start;
   justify-content: space-between;
   margin-left: 20px;
-  margin-right: 350px;
   margin-top: -15px;
 }
 
 aside {
-  margin-right: 100px;
+  margin-right: 40px;
 }
