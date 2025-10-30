@@ -63,7 +63,7 @@ nav a {
 main {
   display: flex;              /* Enables flexbox */
   justify-content: space-between;  /* Controls horizontal spacing */
-  align-items: center;        /* Aligns vertically (centered) */
+  align-items: start;        /* Aligns vertically (centered) */
   gap: 20px; 
 }
 
@@ -75,6 +75,7 @@ article {
   justify-content: space-between;
   margin-left: 20px;
   margin-right: 350px;
+  margin-top: -15px;
 }
 
 aside {
